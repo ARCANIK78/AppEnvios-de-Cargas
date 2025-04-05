@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\bin\Debug\CmpEnvios.dll
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\bin\Debug\CmpEnvios.pdb
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\bin\Debug\CmpEnvios.xml
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\obj\Debug\CmpEnvios.Resources.resources
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\obj\Debug\CmpEnvios.vbproj.GenerateResource.cache
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\obj\Debug\CmpEnvios.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\obj\Debug\CmpEnvios.dll
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\obj\Debug\CmpEnvios.xml
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\obj\Debug\CmpEnvios.pdb
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\obj\Debug\CmpEnvios.vbprojAssemblyReference.cache
+C:\Users\DELL\Documents\Tareas de universidad\Ingenieria software\Taller de visual basic\Practica\CmpEnvios\bin\Debug\CmpEnvios.dll.config
